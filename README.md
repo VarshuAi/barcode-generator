@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Generates printable standard UPC/EAN barcodes.
+  name: barcode-generator version: 1.0 type: Repository author: VarshuAi description: >   Generates printable standard UPC/EAN barcodes. primary_tech: CSS
 primary_tech: CSS
 ```
 
